@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Google Tag Manager 入门指南"
 date:   2015-06-04 16:52:07
@@ -6,6 +6,7 @@ categories: Marketing
 tags: Google, GoogleTagManager
 image: /images/gtm.png
 ---
+
 咱们 OneAPM 的监控，使用了百度统计、Google Analytics，然后百度推广也能看到一些数据。运营部门监控了线下的数据。
 
 够了吗？为什么突然要使用 Google Tag Manager？
