@@ -2,7 +2,7 @@
 layout: post
 title:  "视频编导成果 | 如何使用 ONEAPM 发现性能问题"
 date:   2015-04-23 05:37:20
-categories: 设计
+categories: Design
 tags: ApplicationInsight, BrowserInsight, MobileInsight, Promotions
 image:
 ---

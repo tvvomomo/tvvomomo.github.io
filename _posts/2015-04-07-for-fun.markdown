@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "消遣"
+date:   2015-04-07 12:22:07
+categories: Music
+tags: Tokyo, Reeder, GoodSpeed
+image: /images/godspeed.png
+---
+
+<embed src="http://player.youku.com/player.php/sid/XNTkyMjE0MzE2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
+
+工作太有压力，或者太没压力的时候，喜欢做的事情。
+
+## Lift Your Skinny Fists Like Antennas to Heaven
+
+![](http://img3.douban.com/lpic/s1400682.jpg)
+
+很讨厌乐评的这一套。如果纯从自己的感受出发，听到了绝望、遗憾和寂寥吧。当莫名其妙的人，总要把音乐归类为：后摇、摇滚、爵士、迷幻......我总希望这样的归类方法，会被自己的眼睛和大脑过滤掉，因为音乐只需要耳朵。
+
+## 東京月桃三味線
+
+![](http://tokyo-ghetto-shamisen.com/atsushi_sakata/files/tgs0003.jpg)
+
+网上有关他的资料很少，也是偶然从[宫泽先生的微博](http://www.weibo.com/gongze)，看到他的三弦和太鼓的合奏。
+
+可能他的短发、纹身、还有胡须，是我羡慕的、一直想达到的外在目标；意料之外的是，音乐也那么牛；真是不公平的老天爷啊。
+
+如果了解日本文化的话，可以看看他的 [Twitter](https://twitter.com/AtsushiSakata)，完全不知道他在聊什么；[SoundCloud](https://soundcloud.com/tokyo-ghetto-shamisen) 也只有一首！恨！
+
+## Reeder
+
+Google Reader 死掉一点都不意外，资源消耗太大，而没有营利的模式。幸好 Reeder 以单次购买的方式，让这个习惯得以留下来。
+
+![](http://a3.mzstatic.com/us/r30/Purple5/v4/8b/84/5b/8b845b85-df90-6440-d58c-2f3fee64326d/icon128-2x.png)
+
+[安利一下！](https://itunes.apple.com/cn/app/reeder-2/id880001334?mt=12)
+
+喜欢这件事情，还是在于干净的界面，一次性采集所有的信息，快速的阅读。
+
+高效是最宝贵的体验。
+
+记得以前经常买 10 多个小时的火车站票，无聊会在车站买一本《第一财经周刊》。无论是视觉还是内容，都是充满厚黑学、办公室政治类书籍的书屋里，最值得花 10 块钱的东西。
+
+最近他们的团队，出了好奇心日报，一样！视觉和内容，都是同类订阅源中最棒的。于是领悟一个道理：无聊是传统还是新媒体；无论是做盗版 App 下载，还是 Application Performance Management；团队的素质是最重要的！而所做的事情，不存在高级和不高级的区别。
+
+以此，鼓励自己成为一个牛逼团队里的中流砥柱吧。自恋地笑~
