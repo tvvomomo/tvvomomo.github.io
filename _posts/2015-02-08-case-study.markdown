@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "如何写好一个客户案例"
 date:   2015-02-28 12:22:07
 categories: Marketing
