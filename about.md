@@ -5,12 +5,12 @@ permalink: /about/
 image:
 ---
 
-[![](/images/resume01.png)](mailto:chengmo891@qq.com)
+<a href="mailto:chengmo891@qq.com"><img src="/images/resume01.png" style="max-width:600px"></a>
 
-![](/images/resume02.png)
+<img src="/images/resume02.png" style="max-width:600px">
 
-[![](/images/resume03.png)](https://user.oneapm.com/account/demo.do)
+<a href="https://user.oneapm.com/account/demo.do"><img src="/images/resume03.png" style="max-width:600px"></a>
 
-[![](/images/resume04.png)](http://www.oneapm.com/)
+<a href="http://www.oneapm.com/"><img src="/images/resume04.png" style="max-width:600px"></a>
 
-[![](/images/resume05.png)](mailto:chengmo891@qq.com)
+<a href="mailto:chengmo891@qq.com"><img src="/images/resume05.png" style="max-width:600px"></a>
