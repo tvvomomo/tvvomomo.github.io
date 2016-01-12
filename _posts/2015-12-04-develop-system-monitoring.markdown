@@ -3,7 +3,7 @@ layout: post
 title:  "为什么很多公司都自主开发监控系统？"
 date:   2015-12-04 16:52:07
 categories: Concept
-tags: zabbix, monitoring, nagios
+tags: zabbix monitoring nagios
 image: /images/zhihu.png
 ---
 

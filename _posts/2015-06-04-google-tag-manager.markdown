@@ -3,7 +3,7 @@ layout: post
 title:  "Google Tag Manager 入门指南"
 date:   2015-06-04 16:52:07
 categories: Marketing
-tags: Google, GoogleTagManager
+tags: Google GoogleTagManager
 image: /images/gtm.png
 ---
 

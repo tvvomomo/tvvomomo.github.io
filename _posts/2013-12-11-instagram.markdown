@@ -3,7 +3,7 @@ layout: post
 title:  "哪些图片应用的滤镜比 Instagram 的更好？"
 date:   2013-12-11 21:52:07
 categories: Photography
-tags: instagram, vscocam, oggl
+tags: instagram vscocam oggl
 image: /images/zhihu.png
 ---
 

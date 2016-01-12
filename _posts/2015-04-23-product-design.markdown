@@ -3,7 +3,7 @@ layout: post
 title:  "产品设计，真的不是开玩笑。"
 date:   2015-04-23 21:52:07
 categories: Design
-tags: axure, MaterialDesign, Behance
+tags: axure MaterialDesign Behance
 image: /images/material.png
 ---
 

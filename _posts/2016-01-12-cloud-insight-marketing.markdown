@@ -3,7 +3,7 @@ layout: post
 title:  "浅谈 Cloud Insight 营销"
 date:   2016-01-12 13:52:07
 categories: Marketing
-tags: seo, sem, advertising
+tags: seo sem advertising
 image:
 ---
 

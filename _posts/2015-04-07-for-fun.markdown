@@ -3,7 +3,7 @@ layout: post
 title:  "消遣"
 date:   2015-04-07 12:22:07
 categories: Music
-tags: Tokyo, Reeder, GoodSpeed
+tags: Tokyo Reeder GoodSpeed
 image: /images/godspeed.png
 ---
 

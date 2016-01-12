@@ -3,7 +3,7 @@ layout: post
 title:  "日本 • 游"
 date:   2015-10-07 15:40:07
 categories: Photography
-tags: osaka, tokyo, kyoto
+tags: osaka tokyo kyoto
 image: /images/japan.jpg
 ---
 <p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>

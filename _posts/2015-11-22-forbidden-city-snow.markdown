@@ -3,7 +3,7 @@ layout: post
 title:  "故宫 • 雪"
 date:   2015-11-22 13:40:07
 categories: Photography
-tags: beijing, forbiddencity
+tags: beijing forbiddencity
 image: /images/forbidden-1.jpg
 ---
 <p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
