@@ -1,8 +1,7 @@
 # Site settings
 title: Mooler3
 email: tvvomomo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  程默，男，1988年生。产品经理。
+description: 程默，男，1988年生。产品经理。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tvvomomo.github.io/" # the base hostname & protocol for your site
 twitter_username: tvvo
@@ -15,4 +14,6 @@ paginate: 4
 
 author: Mo Cheng
 
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
