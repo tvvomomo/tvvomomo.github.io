@@ -9,11 +9,8 @@ github_username:  tvvomomo
 
 # Build settings
 markdown: kramdown
-
 paginate: 4
-
 author: Mo Cheng
-
 gems:
   - jekyll-paginate
   - jekyll-sitemap
