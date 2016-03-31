@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "家乡"
+date:   2016-03-31 19:37:07
+categories: Photography
+tags: hometown
+image: /images/hometown1.jpg
+---
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
+
+![](/images/hometown2.jpg)
+
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
+
+![](/images/hometown3.jpg)
+
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
+
+![](/images/hometown4.jpg)
+
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
+
+![](/images/hometown5.jpg)
+
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
