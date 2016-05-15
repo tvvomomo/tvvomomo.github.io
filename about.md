@@ -5,12 +5,25 @@ permalink: /about/
 image:
 ---
 
-<p style="text-align:center"><a href="mailto:chengmo891@qq.com"><img src="/images/resume01.png" style="max-width:600px"></a></p>
+程默
 
-<p style="text-align:center"><img src="/images/resume02.png" style="max-width:600px"></p>
+### 联系方式
 
-<p style="text-align:center"><a href="https://user.oneapm.com/account/demo.do"><img src="/images/resume03.png" style="max-width:600px"></a></p>
+18601371527
 
-<p style="text-align:center"><a href="http://www.oneapm.com/"><img src="/images/resume04.png" style="max-width:600px"></a></p>
+[chengmo891@qq.com](mailto:chengmo891@qq.com)
 
-<p style="text-align:center"><a href="mailto:chengmo891@qq.com"><img src="/images/resume05.png" style="max-width:600px"></a></p>
+### 简历
+
+[下载简历](../resume.pdf)
+
+### 工作经历
+
+* 2016 - 至今 • 乐视体育 • 智能硬件事业部
+* 2013 - 2016 • OneAPM • 产品中心
+* 2012 - 2013 • 北京市轨道交通指挥中心 • 票卡室
+
+### 教育背景
+
+* 2011 - 2013 • 北京航空航天大学 • 计算机学院
+* 2007 - 2011 • 吉林大学 • 软件学院
