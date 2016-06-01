@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "家乡"
+title:  "家 • 乡"
 date:   2016-03-31 19:37:07
 categories: Photography
 tags: hometown
