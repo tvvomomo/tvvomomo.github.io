@@ -4,7 +4,7 @@ title:  "纪念 OneAPM 官网入选 BootCSS 优站精选"
 date:   2015-09-09 12:52:07
 categories: Design
 tags: WebsiteDesign
-image: http://news.oneapm.com/content/images/2015/09/expo_bootcss-2.png
+image: /images/design1.png
 
 ---
 晚上正在和 Cloud Insight 技术负责人争论「Null Point Mode」问题时，听说 OneAPM 官网上了 [BootCSS 的优站精选](http://expo.bootcss.com/)。在一堆设计精巧的外文网站中，一抹映衬着中文的蓝色确实让人有些振奋。
@@ -47,7 +47,7 @@ image: http://news.oneapm.com/content/images/2015/09/expo_bootcss-2.png
 
 > 我们要做的是世界级的设计。
 
-![说说 OneAPM 设计团队](http://news.oneapm.com/content/images/2015/09/worldwide.png)
+![说说 OneAPM 设计团队](/images/design2.png)
 
 虽然，每次我都会打趣说：“得了吧，咱们都是没出过国的土包子”。但是，世界级背后所渴望的愿景是，摆脱小作坊的工作模式，往更高的工业标准而努力。
 
@@ -57,7 +57,7 @@ image: http://news.oneapm.com/content/images/2015/09/expo_bootcss-2.png
 
 我想这也是建筑设计出身的设计总监先生，一直坚持我们的官网长这个样子的原因。
 
-![说说 OneAPM 设计团队](http://news.oneapm.com/content/images/2015/09/apple.png)
+![说说 OneAPM 设计团队](/images/design3.png)
 
 然后，我们来拆解**技艺**这个词。设计总监先生说：
 
@@ -77,4 +77,4 @@ image: http://news.oneapm.com/content/images/2015/09/expo_bootcss-2.png
 
 新技术和新的管理模式，是相辅相成的，在 UI 设计和实现的流程上，我们也在寻求一种消除隔阂、追求效率、实践质量的工作流程和技术手段。
 
-![说说 OneAPM 设计团队](http://news.oneapm.com/content/images/2015/09/react.png)
+![说说 OneAPM 设计团队](/images/design4.png)

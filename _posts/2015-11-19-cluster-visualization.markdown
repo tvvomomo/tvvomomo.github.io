@@ -4,7 +4,7 @@ title:  "集群管理与可视化：Cloud Insight 已经开启！"
 date:   2015-11-19 17:09:07
 categories: Marketing
 tags: cloudinsight clustervisualization
-image:
+image: /images/cluster9.gif
 ---
 
 我们一直在说 Cloud Insight 是一个[数据管理平台](http://www.oneapm.com/ci/feature.html)，或者说是一个次世代的系统监控工具。可能您会感觉很困惑：到底 Cloud Insight 强大之处在哪里？
@@ -22,7 +22,7 @@ image:
 * 在操作系统中使用标签来组织文件
 * 在微信中通过标签来组织联系人
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/tags.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster1.png)
 
 虽然标签的使用场景非常广泛，但是标签的作用都是一样的：**为了更好地管理信息**。
 
@@ -30,11 +30,11 @@ image:
 
 在 [Docker](http://news.oneapm.com/tag/docker/) 中，我们通过标签来标识不同的 Image：
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/docker_tag-1.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster2.png)
 
 这样就能通过不同的 Images 来查看性能指标：
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/group-1.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster3.png)
 
 ## 标签和平台
 
@@ -50,21 +50,21 @@ image:
 
 如：`host:WEB1` 这个标签，代表着一台部署在广州的机器，其内部运行着 PostgreSQL NGINX 和 Varnish。可以通过这个标签，迅速检查这台主机的性能。
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/page_1.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster4.png)
 
 而查看所有 NGINX 的性能呢？怎么办？相信很多老旧的监控工具，都不存在这种的功能。而 Cloud Insight 可以做到。
 
 通过 `integration:nginx` 这个标签，可以检索出分布在北京、上海、广州甚至是国外的所有 Web 服务器性能。
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/page_2.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster5.png)
 
 想要了解某个地域的主机性能表现，来考虑是否需要为这个地域的主机续费？Cloud Insight 也可以帮助你，快速做出决策。
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/page_3.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster6.png)
 
 在 [什么是 Cloud Insight?](http://news.oneapm.com/what-is-cloud-insight/) 这篇文章中，我们提到了过滤出某两台主机的 Swap 使用量的平均值：
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/fillter.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster7.png)
 
 而标签的使用，可以让数据聚合、分组和过滤更加便捷，也让机器的管理更加地清晰。
 
@@ -72,11 +72,11 @@ image:
 
 上一个版本的 Cloud Insight 我们实现了平台列表，来线性查看所有主机的状态，以及操作系统性能指标，和运行在上面的数据库、中间件的性能指标。
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/hosts.png)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster8.png)
 
 而这个版本，我们为带来了更加强大的展现形式：平台拓扑。
 
-![集群管理与可视化：Cloud Insight 已经开启！](http://news.oneapm.com/content/images/2015/11/hostmap.gif)
+![集群管理与可视化：Cloud Insight 已经开启！](/images/cluster9.gif)
 
 通过标签的选取，对平台进行分组，快速找到出现问题的节点，所属的地域、模块、应用。
 
