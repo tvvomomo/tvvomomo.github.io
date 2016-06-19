@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "产品经理迅速上手 Sketch"
-date:   2016-06-19 18:15:07
+date:   2016-06-18 08:15:07
 categories: Design
 tags: webdesign, appdesign, sketch
-image: /images/skecth-icons.png
+image: /images/sketch-icon.png
 ---
 
 很多人在学习 Sketch 时，打开工具看到迥异的功能，会立马打退堂鼓。
