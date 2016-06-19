@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "产品经理迅速上手 Sketch"
+date:   2016-06-19 18:15:07
+categories: Design
+tags: webdesign, appdesign, sketch
+image: /images/skecth-icons.png
+---
+
+很多人在学习 Sketch 时，打开工具看到迥异的功能，会立马打退堂鼓。
+
+其实大家对于工具的恐惧，来自于太多的新功能，和 Axure、Photoshop 不一样。
+
+但是作为产品经理，不是专职设计人员，只用会 Sketch 的这几个功能，就够了。
+
+## Artboard
+
+![](/images/artboard.png)
+
+Artboard 有点类似 Axure 中的页面。如果说 Axure 中以页面为单位，那么在 Sketch 中就是以 Artboard 为单位。
+
+* 以 Artboard 来规定页面的尺寸
+* 以 Artboard 为单位来流转至设计师、研发人员
+* 以 Artboard 为单元在 Principle 中制作页面跳转
+
+如果你做的是 Web Design，在如今宽屏较多的情况，可以以 1200 px 作为页面宽度。
+
+而我习惯使用 1440 px 的宽度。
+
+![](/images/artboard1.png)
+
+如果你做的是 App Design，并且以 iOS iPhone 6 的尺寸为基准，那么就可以使用 750 px 作为页面宽度。
+
+![](/images/artboard2.png)
+
+个人觉得 Sketch Artboards 比 Axure 页面更好的地方，就是可以更加直观看到所有页面。
+
+![](/images/artboards.png)
+
+当你点击 Artboard 时，Sketch 会给出尺寸参考，让你快速相应尺寸的页面。
+
+![](/images/artboard3.png)
+
+## Rectangle
+
+身为产品经理，最常面对的是线框图，所以在 Sketch 中最常见的就是矩形：Rectangle 了。
+
+就算是设计师，最常用的也就是矩形吧。啊哈哈。
+
+先给大家看看一个页面，他几乎都由矩形构成。
+
+![](/images/metric_explorer.png)
+
+掌握矩形的检查器，也就掌握了 Sketch 功能的一半啦。当然，这是对于产品经理来说啦~
+
+![](/images/rectangle.png)
+
+那我们来看看矩形的检查器都有什么功能吧：
+
+* 对齐：几乎每个设计工具都有的功能
+* 位置、尺寸、翻转
+* 圆角
+* 样式定义
+* 透明度、图层混合：类似 Photoshop 的图层混合功能
+* 填充与边框
+* 外阴影和内阴影
+* 模糊
+
+是不是很简单，有 Axure 基础基本都能了解是什么功能。
+
+至此，你就可以开始使用 Sketch 来画原型了。
+
+## Icons
+
+在原型设计没有走设计流程时，产品经理可以去[阿里巴巴](http://iconfont.cn/)下载一些 icons 临时充数。
+
+![](/images/iconfont.png)
+
+Sketch 可以承接 iconfont `svg` 的格式，并且还原路径，方便后续编辑。Sketch 的布尔运算，和 Ai 中的「路径查找器」如出一辙。
+
+![](/images/operations.jpg)
+
+![](/images/iconfont1.png)
+
+在 Sketch 布尔运算中，可以方便得实现形状的合并、相差、相交、去重。
+
+![](/images/map-marker-hole.gif)
+
+![](/images/iconfont3.png)
+
+## Zeplin
+
+产品经理做完产品设计后，需要将成果交接给设计师或者说研发人员。Sketch 插件 Zeplin 可以很好帮助我们完成这一点。
+
+![](/images/zeplin.png)
+
+Zeplin 是帮助设计师和研发人员更快沟通的工具，他可以完成：
+
+* Artboard 快速上传
+* Sketch 中每个元素给出标注和参考代码
+* 交接切图
+* 页面标注，帮助研发和设计更好地理解产品设计
+* 标签，更好地分类来帮助版本管理
+
+### 上传
+
+在 Sketch 选中要上传的 Artboard，按下 cmd + E 就可以上传啦。
+
+### 参考代码
+
+Zeplin 神奇的地方就在于，可以给出标注和参考代码，来帮助研发人员更快得书写前端代码。
+
+![](/images/code.png)
+
+### 切图
+
+在 App Design 中设计师往往要交接不同尺寸的切图，就很麻烦。Zeplin 可以帮助设计师快速生成不同尺寸的元素切图。而研发人员直接在上面下载就可以了。
+
+![](/images/scDevAsset.png)
+
+### 页面标注
+
+有一些简单的交互和控制样式说明，可以直接写在 Zeplin 上就很方便。相当于产品经理的需求文档，就可以直接在 Zeplin 上搞定了，还自带评论功能。
+
+![](/images/comment.png)
+
+### 标签
+
+当迭代速度快、页面数量多时，适当地给页面打标签，可以帮助设计和研发快速找到页面，和确定任务。
+
+也能够给不同页面打上版本信息，更好地进行版本管理。
+
+![](/images/tags.png)
+
+---
+
+好了，掌握 Sketch 这些功能，就可以尝试使用 Sketch 来做产品设计了。Sketch 目前的模板，周边的插件，已经优于 Axure 了。
+
+也是时候学习这个新工具了。
