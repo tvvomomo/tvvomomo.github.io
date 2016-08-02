@@ -113,7 +113,6 @@ openstack role add cloudinsight_monitoring --project my_project_name --user clou
     - "os_compute_api:os-hypervisors:discoverable",
     - "os_compute_api:os-server-diagnostics",
     - "os_compute_api:os-used-limits"
-
 ```
 
 ### 告知 Cloudinsight
@@ -179,9 +178,8 @@ instances:
 我们先来看一下 Ceilometer 提供的数据：
 
 ```
-| Period	| Period Start			| Period End			| Max | Min | Avg | Sum | Count | Duration | Duration Start      | Duration End        |
-| 10000000	| 2015-03-29T05:56:38	| 2046-12-05T07:43:18	| 0.0 | 0.0 | 0.0 | 0.0 | 17    | 11273.0  | 2015-03-29T05:56:38 | 2015-03-29T09:04:31 |
-
+| Period	| Period Start   | Max | Min | Avg | Sum | Count | Duration |
+| 10000000	| 22046-12-05T07:43:18	| 0.0 | 0.0 | 0.0 | 0.0 | 17    | 11273.0 |
 ```
 
 再来看看 Cloudinsight 提供的 OpenStack 默认监控样式：
