@@ -70,6 +70,8 @@ image: /images/japan.jpg
 
 ![](/images/kyoto-1-1.jpg)
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1mA-FlCtkZiQL3sxgwzl_GeUzqxs&hl=zh-CN" width="640" height="480"></iframe>
+
 <p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
 
 <h3 style="text-align:center">Day V • Kyoto</h3>
