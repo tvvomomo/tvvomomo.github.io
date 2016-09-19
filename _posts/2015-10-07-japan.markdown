@@ -70,7 +70,7 @@ image: /images/japan.jpg
 
 ![](/images/kyoto-1-1.jpg)
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1mA-FlCtkZiQL3sxgwzl_GeUzqxs&hl=zh-CN" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1mA-FlCtkZiQL3sxgwzl_GeUzqxs&hl=zh-CN" width="100%" height="800px"></iframe>
 
 <p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
 
