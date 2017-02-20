@@ -38,3 +38,11 @@ image: /images/work1.JPG
 <p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
 
 ![](/images/work4.JPG)
+
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
+
+<h3 style="text-align:center">2016 Q4 • 公司周年庆</h3>
+
+<p style="margin-top:50px; margin-bottom:50px; text-align:center; color:#eeeeee">—————————— • ——————————</p>
+
+![](/images/team-gallery.jpg)
