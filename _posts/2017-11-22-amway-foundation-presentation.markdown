@@ -3,7 +3,7 @@ layout: post
 title:  "安利基金会 • 儿童营养地图 • 演示稿"
 date:   2017-11-22 17:10:00
 categories: Design
-tags: design, blancpain, enamel
+tags: design, amway, public-welfare
 image: /images/amway/amway1.png
 ---
 
