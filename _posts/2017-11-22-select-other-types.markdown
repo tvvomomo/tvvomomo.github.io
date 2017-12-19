@@ -23,6 +23,10 @@ image: /images/select1.png
 
 ![](/images/select2.png)
 
+**复杂的动态提示信息，也能很好地适应。**
+
+![](/images/select6.png)
+
 **单选框也适应于多项输入。**
 
 ![](/images/select3.png)
