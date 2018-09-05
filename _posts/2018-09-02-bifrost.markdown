@@ -57,7 +57,7 @@ image: /images/bifrost.png
 
 ### 从原配送任务中拆分出数据源的概念
 
-![](/images/bifrost-data-source.jpeg)
+![](/images/bifrost-data-source.png)
 
 为了能够在一个页面中体现出：选择一个起始点、再选择一个目的地，触发一次动作，这样的自然流程；我们就必须修改原有触发动作时才设置起始点的交互。
 
@@ -74,7 +74,7 @@ image: /images/bifrost.png
 
 如果一次触发成功了，那么下方的历史作业中，会出现一条新的记录。
 
-![](/images/bifrost-logs.jpeg)
+![](/images/bifrost-logs.png)
 
 除此之外，我们还针对新手用户，在完全没有数据密钥、数据源、配送目标的前提下，来新建一次触发配送（新建作业）的功能。
 
