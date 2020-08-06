@@ -4,7 +4,7 @@ title:  "好用的 Sketch 可视化插件 Chart"
 date:   2020-08-05 18:27:00
 categories: Design
 tags: design, user-interface, information-architecture
-image: /images/service-1.png
+image: /images/chart-illustration.png
 ---
 
 话不多说，直接上链接：[pavelkuligin/chart](https://github.com/pavelkuligin/chart)。
