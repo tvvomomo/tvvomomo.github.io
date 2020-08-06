@@ -47,4 +47,6 @@ image: /images/chart-illustration.png
 
 ![使用在界面中](/images/chartfull-ex-4.png)
 
-> 哦～ 对了，10 美元 1 年。支持正版哦～
+> 哦～ 对了，10 美元 1 年。支持正版哦 ～
+
+*无甲方充值的带货非网红*
